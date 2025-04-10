@@ -98,7 +98,7 @@ else:
     # I think I Like python more than web development. But I will learn both. 
     # (It might because I am a begginer in Python and I am not used to it yet. But I feel better when I am coding in Python.)
     # I will also learn more about web development and make more things like this in the future.
-    # I will also learn more about AI or and how to make it more efficient.
+    # I will also learn more about AI or and how to make it more efficient for me and for people.
     # I will also learn everything I need to be great. I won't run away...
     # The first correct path is "left" and "wait" and "red/yellow".
     # The second correct path is "right" and "no" and "wait" and "red/yellow".
