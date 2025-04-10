@@ -100,6 +100,7 @@ else:
     # I will also learn more about web development and make more things like this in the future.
     # I will also learn more about AI or and how to make it more efficient.
     # I will also learn everything I need to be great. I won't run away...
-    # and The correct answer is "left/right" and "wait" and "red/yellow".
+    # The first correct path is "left" and "wait" and "red/yellow".
+    # The second correct path is "right" and "no" and "wait" and "red/yellow".
     # It's better to burn with something than to die without accomplishing anything.
     # I am just saying that is my thoughts and I am not saying that you should do the same.
