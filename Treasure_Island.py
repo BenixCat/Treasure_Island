@@ -94,3 +94,9 @@ else:
     # If the player chooses an invalid option, they are prompted to try again.
     else:
         print("I can't think of any sensible humor to write here right now. Just enter the correct options without any spelling errors.")
+
+    # I think I Like python more than web development. But I will learn both. 
+    # (It might because I am a begginer in Python and I am not used to it yet. But I feel better when I am coding in Python.)
+    # I will also learn more about web development and make more things like this in the future.
+    # I will also learn more about AI or and how to make it more efficient.
+    # I will also learn everything I need to be great. I won't run away...
