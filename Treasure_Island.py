@@ -102,3 +102,5 @@ else:
     # I will also learn everything I need to be great. I won't run away...
     # and The correct answer is "left/right" and "wait" and "red/yellow".
     # Its better to burn with something than to die without accomplishing anything.
+    # Its only my thoughts. I am not saying that you should do the same.
+    # I am just saying that I will do the same.
